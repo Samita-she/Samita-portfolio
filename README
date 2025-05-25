@@ -1,0 +1,76 @@
+# Sheila Samita - Software Engineer Portfolio
+
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge)](https://your-portfolio-url.com)
+[![GitHub](https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Samita-she/portfolio)
+
+![Portfolio Screenshot](./screenshot.png) <!-- Add a screenshot later -->
+
+## 🌟 Features
+
+- **Modern UI** with responsive design
+- **Dark/Light mode** toggle
+- **Project showcase** with interactive cards
+- **Skills visualization** with categorized badges
+- **SEO optimized** and accessible
+
+## 🛠️ Technologies Used
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
+</p>
+
+## 🚀 Projects Showcased
+
+1. **Ramen Rating App** - Interactive ramen rating application
+2. **Expense Tracker** - Financial management tool with React
+3. **StellarStreet Realty** - Modern real estate showcase
+4. **Agri-Market Connect** - Farmer-to-buyer platform
+5. **Mini Chat Bot** - React-based conversational UI
+
+## 🏗️ Project Structure
+portfolio/
+├── src/
+│ ├── css/ # All stylesheets
+│ ├── js/ # JavaScript modules
+│ └── assets/ # Images/icons
+├── index.html # Main entry point
+├── package.json # Project dependencies
+└── README.md # This file
+
+## 🛠️ Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Samita-she/portfolio.git
+
+   Install dependencies:
+
+bash
+npm install
+Run development server:
+
+bash
+npm run dev
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+📬 Contact
+Email: samitasheila1@gmail.com
+
+LinkedIn: Sheila Samita
+
+GitHub: @Samita-she
+
+
